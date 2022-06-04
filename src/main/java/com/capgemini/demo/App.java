@@ -1,10 +1,9 @@
 package com.capgemini.demo;
 
 /**
- * Hello world! !
- *
- */
-public class App 
+ * Hello world! ! **/
+//demo
+class App 
 {
     public static void main( String[] args )
     {
