@@ -8,6 +8,13 @@ package com.capgemini.demo;
  * Hello world!
  *
  */
+* Hello world!
+*
+*/
+/**
+* Hello world!
+*
+*/
 public class App 
 {
     public static void main( String[] args )
